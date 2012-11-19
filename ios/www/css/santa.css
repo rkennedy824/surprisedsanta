@@ -1,0 +1,122 @@
+<style type="text/css">
+
+.ui-header .ui-title{
+    margin: 0.3em 70px 0.7em 10px;
+    background-repeat:no-repeat;
+    background-position:0 0px;
+    width:170px;
+ }
+div[data-role='photobuttons'] >  div{
+    width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.savedphoto{
+	width: 80%;
+	margin-left:7.5%;
+	margin-right: auto;
+	margin-top: 0px;
+	border: 1px solid #490407;
+	    padding: 7px;
+	background-color: #D62733;
+	}
+	
+.santaoverlay{
+position:relative;
+width: 30%;
+left:0px;
+top:0px;
+z-index: 2;
+}
+​
+.place{
+width: 50%;
+margin-left:7.5%;
+margin-right: auto;
+margin-top: 5px;
+border: 1px solid #490407;
+    padding: 7px;
+background-color: #D62733;
+}
+
+.linkbutton{
+width: 90%;
+margin-left: auto;
+margin-right: auto;
+}
+
+body {
+	background: #ffffff;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+h3 {
+	color: #456b20;
+	margin-top:-5px;
+}
+
+p{
+	margin-top:-7px;	
+}
+
+h5 {
+	color: #ffffff;
+	text-shadow: 0 1px  1px  #000000;
+	position: absolute;
+	bottom:7px;
+	margin-left: 10%;
+	width: 70%;
+	z-index: 2;
+	text-align: center;
+}
+
+.santa {
+	width: 100%;
+	position:absolute;
+	bottom:0px;
+	}
+	
+.presents {
+		width: 90%;
+		position:absolute;
+		bottom:0px;
+		}
+	
+.tree {
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	position:absolute;
+	bottom:0px;
+	}
+	
+.image {
+	width: 60%;
+	margin-left:auto;
+	margin-right: auto;
+	margin-top: 5px;
+	border: 5px solid #C40C16;
+	}
+	
+.place {
+	width: 100%;
+	margin: 0 0 0 0;
+}
+
+div.img
+{
+  margin-left: 5px;
+  border: 1px solid #490407;
+    padding: 5px;
+background-color: #C40C16;
+  width: auto;
+  height: auto;
+  float: left;
+  display: inline;
+}	
+div.img img
+{
+  display: inline;
+</style>
+
